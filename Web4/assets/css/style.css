@@ -1,0 +1,47 @@
+.head {
+  height: 40px;
+  background-color: grey;
+}
+span {
+  background-color: silver;
+  padding: 5px 40px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
+.box-head {
+  margin-top: 5px;
+  height: 200px;
+  background-color: grey;
+}
+.left {
+  background-color: grey;
+}
+.title {
+  background-color: grey;
+  height: 30px;
+  text-align: center;
+}
+.text-justify {
+  text-align: justify;
+}
+.p-2 img {
+  width: 80px;
+}
+.ps-2 {
+  background-color: silver;
+  margin-left: 6px;
+}
+.box-head-bold {
+  margin-top: 5px;
+  height: 200px;
+  background-color: grey;
+}
+img.kanan {
+  width: 425px;
+}
+.foto-about {
+  width: 130px;
+}
+.m-2 img {
+  width: 60px;
+}
